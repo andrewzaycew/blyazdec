@@ -2,7 +2,8 @@
 _mode=set_cookie
 
 [REDIRECT]
-https://example.com/some-link
+https://linkvertise.com/155043/polar-key-2-v1
+https://loot-link.com/s?d29324ca
 
 // Формат: имя=значение; max-age=СЕКУНДЫ; secure; samesite=Lax|Strict|None
 [COOKIES]
