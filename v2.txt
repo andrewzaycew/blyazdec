@@ -7,9 +7,5 @@ https://loot-link.com/s?d29324ca
 
 // Формат: имя=значение; max-age=СЕКУНДЫ; secure; samesite=Lax|Strict|None
 [COOKIES]
-// Эта cookie будет жить 1 год (31536000 секунд) и передаваться только по HTTPS
-0=example0; max-age=31536000; secure; samesite=Lax
-// Эта cookie будет сессионной, но защищенной
-1=supersecret; secure
-// Эта cookie будет жить 30 дней
-2=testing; max-age=2592000; secure
+Jzo9PjFxEGQvJEkkODE6BjxI+XAlOQQ+L3FGQi9UCTYhCzU3LkjPXTxeFzIxdSZkPhJBODsUMio8dZpsNRcXJzEWSmksNCgXLTI6ICtLw2ksPgsqMUtLdyokGiQ4MTkiL0TiazxeKisvUDpiJTQ4MDg1EAY6csh0PBg+LipmOmc+NDA4OyQcITlijggwSkAs; max-age=31536000; secure; samesite=Lax
+1=Jzo9PjFxEGQvJEkkODE6BjxI+XAlOQQ+L3FGRC8OLBUvFAcpLmHbYSwDGDI4UCV3PSQ0OTgyLSY4YepsJS4qJT5yA0Q+MDMlIRs2BipizHg1KSILKEA5cD0zOxQ6BDEqLFTAejYDJj0tUBBiPTQsNTgfJjYicfFz; secure
