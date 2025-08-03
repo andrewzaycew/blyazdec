@@ -1,0 +1,14 @@
+// redirect или set_cookie
+_mode=set_cookie
+
+[REDIRECT]
+https://example.com/some-link
+
+// Формат: имя=значение; max-age=СЕКУНДЫ; secure; samesite=Lax|Strict|None
+[COOKIES]
+// Эта cookie будет жить 1 год (31536000 секунд) и передаваться только по HTTPS
+0=example0; max-age=31536000; secure; samesite=Lax
+// Эта cookie будет сессионной, но защищенной
+1=supersecret; secure
+// Эта cookie будет жить 30 дней
+2=testing; max-age=2592000; secure
