@@ -1,4 +1,4 @@
-_mode=redirect
+_mode=set_cookie
 
 [REDIRECT]
 https://linkvertise.com/155043/polar-key-2-v1
